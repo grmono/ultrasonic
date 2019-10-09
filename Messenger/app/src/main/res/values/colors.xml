@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="received_background">#d6dcf5</color>
+    <color name="received_text">#1c1c1c</color>
+    <color name="received_hint">#3b3b3b</color>
+    <color name="send_background">#ebebeb</color>
+    <color name="send_text">#545454</color>
+    <color name="send_hint">#787878</color>
+    <color name="send_button_default_bg">#2b4ac9</color>
+    <color name="send_button_gray_bg">#545454</color>
+</resources>
